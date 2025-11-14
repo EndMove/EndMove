@@ -57,7 +57,7 @@ www.|_________|_____|\____|________.'|_____||_____|\.____.'     \_/    |________
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="photoshop logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/768px-Adobe_Photoshop_CC_icon.svg.png" height="30" alt="photoshop logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
   <img width="12" />
